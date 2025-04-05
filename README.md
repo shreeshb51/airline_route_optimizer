@@ -119,10 +119,25 @@ The following are the sample images of the web interface:
 | ![image](images/network_metrics_sample.png) |
 
 ## References
-1. Yen, J. Y. (1971). Finding the k shortest loopless paths in a network. Management Science, 17(11), 712-716.
-2. Freeman, L. C. (1977). A set of measures of centrality based on betweenness. Sociometry, 40(1), 35-41.
-3. Newman, M. E. J. (2010). Networks: An Introduction. Oxford University Press.
-4. Hagberg, A., Swart, P., & Schult, D. (2008). Exploring network structure, dynamics, and function using NetworkX. In Proceedings of the 7th Python in Science Conference (SciPy 2008).
+
+### Graph Theory Fundamentals
+1. Newman, M. E. J. (2010). *Networks: An Introduction*. Oxford University Press.
+2. Bondy, J. A., & Murty, U. S. R. (2008). *Graph Theory*. Springer.
+3. West, D. B. (2000). *Introduction to Graph Theory* (2nd ed.). Prentice Hall.
+
+### Shortest Path Algorithms
+4. Yen, J. Y. (1971). Finding the k shortest loopless paths in a network. *Management Science*, 17(11), 712-716.
+5. Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. *Numerische Mathematik*, 1(1), 269-271.
+6. Eppstein, D. (1998). Finding the k shortest paths. *SIAM Journal on Computing*, 28(2), 652-673.
+
+### Network Centrality Measures
+7. Freeman, L. C. (1977). A set of measures of centrality based on betweenness. *Sociometry*, 40(1), 35-41.
+8. Brandes, U. (2001). A faster algorithm for betweenness centrality. *Journal of Mathematical Sociology*, 25(2), 163-177.
+9. Borgatti, S. P. (2005). Centrality and network flow. *Social Networks*, 27(1), 55-71.
+
+### Network Visualization
+1. Hagberg, A., Swart, P., & Schult, D. (2008). Exploring network structure, dynamics, and function using NetworkX. In Proceedings of the 7th Python in Science Conference (SciPy 2008).
+2. Kamada, T., & Kawai, S. (1989). An algorithm for drawing general undirected graphs. *Information Processing Letters*, 31(1), 7-15.
 
 ## Dependencies
 - Python 3.7+
