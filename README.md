@@ -4,17 +4,18 @@
 The Airline Route Optimizer is a sophisticated tool that leverages graph theory and network analysis to find optimal flight routes between airports. It computes routes based on multiple metrics (distance, time, and a composite score) and provides interactive visualizations to help users understand the network structure and centrality of different airports.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Methodology](#methodology)
-5. [Examples](#examples)
-6. [References](#references)
-7. [Dependencies](#dependencies)
-8. [Algorithms/Mathematical Concepts Used](#algorithmsmathematical-concepts-used)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
-12. [Data Source](#data-source)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Methodology](#methodology)
+- [Examples](#examples)
+- [References](#references)
+- [Dependencies](#dependencies)
+- [Algorithms/Mathematical Concepts Used](#algorithmsmathematical-concepts-used)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Data Source](#data-source)
+- [Note](#note)
 
 ## Installation
 Follow these steps to set up the Airline Route Optimizer:
@@ -211,3 +212,7 @@ The application uses flight data from the `flights.csv` file, which should conta
 
 The data can be downloaded from [Kaggle](https://www.kaggle.com/datasets/mahoora00135/flights/data).
 The name of the data should be default: `flights.csv`, and, placed it in project root directory.
+
+## Note
+| AI was used to generate most of the docstrings and inline comments in the code. |
+|:--:|
