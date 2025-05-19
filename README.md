@@ -195,7 +195,7 @@ Where:
 - **Minimum Spanning Tree**: Subset of edges that connect all nodes with minimum total weight
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - NetworkX team for their excellent graph theory library
